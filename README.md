@@ -4,7 +4,7 @@ I'm Bronwyn, a full stack developer.
 
 - Coding is my passion, and has been since I was eight years old.
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/bronwyn-waterhouse/)
-- You can view my (under construction) portfolio [here 👻](https://motherofchownz.github.io/portfolio)
+- You can view my (under construction) portfolio [here 👻](https://bronwynwaterhouse.com/)
 
 
 ## My projects 👩‍💻
