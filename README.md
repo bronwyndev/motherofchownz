@@ -9,11 +9,11 @@ I'm Bronwyn, a full stack developer.
 
 ## My projects 👩‍💻
 
-- [Slime Rancher Assistant](https://slimerancherassistant.netlify.app/), a simple web application built in React to plan out your ranch in the video Slime Rancher.
+- [Slime Rancher Assistant](https://slimerancherassistant.netlify.app/), a simple web application built in React to plan out your ranch in the video game Slime Rancher.
 
 and many more exciting projects to be unveiled...
 
 
-## About me
+## About me 🦇
 
 Originally from New Zealand, I made the leap over the ditch to Sydney, Australia in 2022. My career in development spans 9 years so far and over that time I have built countless projects across a plethora of sectors and technologies.
