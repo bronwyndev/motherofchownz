@@ -2,15 +2,15 @@
 
 I'm Bronwyn, a full stack developer.
 
-- Coding is my passion, and has been since I was eight years old.
+- Coding is one of my passions, and has been since I was eight years old.
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/bronwyn-waterhouse/)
-- You can view my (under construction) portfolio [here 👻](https://bronwynwaterhouse.com/)
+- You can view my portfolio [here 👻](https://bronwynwaterhouse.com/)
 
 
 ## My projects 👩‍💻
 
-- [Slime Rancher Assistant](https://slimerancherassistant.netlify.app/), a simple web application built in React to plan out your ranch in the video game Slime Rancher.
-- [Skyrim Build Assistant](https://github.com/motherofchownz/Skyrim-Build-Assistant), a simple web application built in React to plan out your build in Skyrim, with a few presets to give inspiration. (Under construction)
+- [Slime Rancher Assistant](https://slimerancherassistant.netlify.app/), a web application built in React to plan out your ranch in the video game Slime Rancher.
+- [Skyrim Build Assistant](https://github.com/motherofchownz/Skyrim-Build-Assistant), a web application built in TypeScript / React to plan out your build in Skyrim, with a few presets to give inspiration. (Currently in progress)
 
 and many more exciting projects to be unveiled...
 
