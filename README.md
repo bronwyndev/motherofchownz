@@ -10,7 +10,7 @@ I'm Bronwyn, a full stack developer.
 ## My projects 👩‍💻
 
 - [Slime Rancher Assistant](https://slimerancherassistant.netlify.app/), a web application built in React to plan out your ranch in the video game Slime Rancher.
-- [Skyrim Build Assistant](https://github.com/motherofchownz/Skyrim-Build-Assistant), a web application built in TypeScript / React to plan out your build in Skyrim, with a few presets to give inspiration. (Currently in progress)
+- [Skyrim Build Assistant](https://skyrimperkcalculator.netlify.app/), a web application built in TypeScript / React to plan out your build in Skyrim, with a few presets to give inspiration. (Currently in progress)
 
 and many more exciting projects to be unveiled...
 
